@@ -148,7 +148,7 @@ header .subtitle{
 
 .border{ 
     height: 2rem;
-    background-image: url(border-dark.png);
+    background-image: url(images/border-dark.png);
     background-repeat: repeat-x;
     background-size: auto 25%;
     max-width: var(--max-width);
